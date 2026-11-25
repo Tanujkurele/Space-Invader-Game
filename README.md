@@ -29,7 +29,7 @@ Installation and Setup
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Tanuj-Space-Invaders.git
+git clone https://github.com/Tanujkurele/Space-Invader-Game.git
 ```
 
 2. Navigate to the Project Folder
